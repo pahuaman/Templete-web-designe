@@ -1,5 +1,5 @@
 # Templete-web-designe
-template for web design
+Template for web designe
 you can start your web projects with this template make with HTML/CSS/JS 
 
 ![plantilla](https://user-images.githubusercontent.com/19762166/214373914-259d6438-810c-4896-ac28-75a3a11caf8b.PNG)
